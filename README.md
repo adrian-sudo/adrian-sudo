@@ -5,13 +5,14 @@
 
 < p align="izquierda"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/ ?username=adrian-sudo" alt="adrian-sudo" /></a> </p>
 <p align="left"> <a href="https://twitter.com/@adrinro42549553" target= "en blanco"><img src="https://img.shields.io/twitter/follow/@adrinro42549553?logo=twitter&style=for-the-badge" alt="@adrinro42549553" /></a> </ p>
+
 - 🌱 Actualmente estoy aprendiendo **Cursos,Marcos, etc**
 - 👯Anteriormente colaboré en un software **asoprotecco**
 - 👨‍💻 trabajo en una aplicación de finanzas monfley 
 - 📫 Cómo comunicarse conmigo **adrianfeliperodriguezlozano05@gmail.com**
 - ⚡ Dato curioso **Creo que Soy gracioso**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3>Conéctate conmigo</h3> 
 
 <p align="left">
 <a href="https://twitter.com/@adrinro42549553" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adrinro42549553 " altura="30" ancho="40" /></a>
