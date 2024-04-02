@@ -11,7 +11,7 @@
 - 📫 Cómo comunicarse conmigo **adrianfeliperodriguezlozano05@gmail.com**
 - ⚡ Dato curioso **Creo que Soy gracioso**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 >Conéctate conmigo</h3>
 
 <p align="left">
 <a href="https://twitter.com/@adrinro42549553" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adrinro42549553 " altura="30" ancho="40" /></a>
