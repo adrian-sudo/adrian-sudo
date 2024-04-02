@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrian Felipe Rodríguez lozano</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-sudo" /> </p>
+
 - 🔭 I’m currently working on **Asoprotecco**
 
 - 🌱 I’m currently learning **Course, framework,etc**
