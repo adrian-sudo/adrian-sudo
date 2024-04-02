@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Adrián Felipe Rodríguez Lozano</h1>
-<h3 align="center">un apaisado del desarrollo de software, me gusta mucho el diseño como programar</h3>
+<h3 align="center">un apasionado del desarrollo de software, me gusta mucho el diseño como programar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-sudo" /> </p>
 
