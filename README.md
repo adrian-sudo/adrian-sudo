@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Adrián Felipe Rodríguez lozano</h1>
-<h3 align="center">A passionate frontend developer from Colombia 🇨🇴</h3>
+<h1 align="center">Hi 👋, I'm Adrian Felipe Rodríguez lozano</h1>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
+
+- 🔭 I’m currently working on **Asoprotecco**
+
+- 🌱 I’m currently learning **Course, framework,etc**
+
+- 👨‍💻 All of my projects are available at [adrian_sudo](adrian_sudo)
+
+- 📝 I'm creating a finance app [Monfley](Monfley)
+
+- 💬 Ask me about **Vue, HTML, java**
+
+- 📫 How to reach me **adrianfeliperodriguezlozano05@gmail.co**
+
+- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
