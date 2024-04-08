@@ -11,7 +11,7 @@
 
 - 📝 I'm creating a finance app [Monfley](Monfley)
 
-- 💬 Ask me about **Vue, HTML,css,java**
+- 💬 Ask me about **Vue,HTML,CSS,java**
 
 - 📫 How to reach me **adrianfeliperodriguezlozano05@gmail.co**
 
