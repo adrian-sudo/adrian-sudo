@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [adrian_sudo](adrian_sudo)
 
-- 📝 I'm creating a finance app [Monfley](Monfley)
-
-- 💬 Ask me about **Vue,HTML,CSS,java**
+- 💬 Ask me about **Vue,HTML,CSS,Rect,Js,Node,NextJs**
 
 - 📫 How to reach me **adrianfeliperodriguezlozano05@gmail.co**
 
