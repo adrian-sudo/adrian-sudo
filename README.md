@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [adrian_sudo](adrian_sudo)
 
-- 💬 Ask me about **Vue,HTML,CSS,Rect,Js,Node,NextJs,Python,java**
+- 💬 Ask me about **Vue,HTML,CSS,Rect,Js,Node,NextJs,Python,java,PhP**
 
 - 📫 How to reach me **adrianfeliperodriguezlozano05@gmail.co**
 
