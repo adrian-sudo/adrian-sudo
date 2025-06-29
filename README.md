@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-sudo" /> </p>
 
-
-- 🌱 I’m currently learning **Course, framework,etc**
-
 - 👨‍💻 All of my projects are available at [adrian_sudo](adrian_sudo)
 
 - 💬 Ask me about **Vue,HTML,CSS,Rect,Js,Node,NextJs,Python,java,PhP**
